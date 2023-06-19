@@ -4,7 +4,7 @@ After that I'll probably start posting some Linux and python stuff.
 
 <!---
 Try adding some empty links to see how they render in html.
-Try enclosing the links within a quote block
+Try enclosing the links within a quote block - No joy
 --->
 
 ----
