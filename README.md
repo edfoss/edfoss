@@ -4,7 +4,10 @@ After that I'll probably start posting some Linux and python stuff.
 
 <!---
 Try adding some empty links to see how they render in html.
+Try enclosing the links within a quote block
 --->
 
+----
 <a rel="me" href="https://mstdn.social/@edfoss"></a>
 <a rel="me" href="https://mstdn.social/@topics"></a>
+----
